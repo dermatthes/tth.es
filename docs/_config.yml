@@ -1,0 +1,8 @@
+title: leuffen.de
+description: educational grade development tools
+google_analytics:
+show_downloads: true
+include:
+
+plugins:
+- jekyll-optional-front-matter
