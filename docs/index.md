@@ -3,10 +3,6 @@ layout: default
 title: About me
 ---
 
-<script>
-document.location.href = "https://leuffen.de";
-
-</script>
 
 ## Interests
 
