@@ -3,7 +3,6 @@ layout: default
 title: About me
 ---
 
-
 ## Interests
 
 - Agile product development
@@ -19,13 +18,3 @@ title: About me
 - **[Phore Framework](https://github.com/phore)**: Microservice IoT and big-data framework
 - **[kickstart](https://github.com/infracamp/kickstart)**: Language agnostic container based rapid development environment
 
-## Speaker
-
-- ITSMF 2018: "*Fachkräftemangel im IT Konzern*"
-- IT Sicherheitskonferenz 2018: "*Muss der Admin alles können dürfen*"
-
-## Contact
-
-Matthias Leuffen - Viehofer Str. 31 - 45127 Essen - m@tth.es - Germany
-
-[see page source](https://github.com/dermatthes/leuffen.de)
