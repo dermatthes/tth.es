@@ -114,8 +114,8 @@ die SLAs eingehalten werden können.
 ### Sprint-Planning
 
 Sowohl User Stories als auch Refined Stories werden in einer E-Mail bis spätestens Donnerstags
-0:00 Uhr veröffentlicht. Teilzeitler können sich dann bis Montags darauf bewerben und Präferenzen
-angeben.
+0:00 Uhr veröffentlicht (PO). Teilzeitler können sich dann bis Montags 6:00 Uhr darauf bewerben und 
+Präferenzen angeben. Die POs organisieren dies.
 
 - Durch die POs werden neue User-Stories im Backlog kurz vorgestellt bzw. zurück gestellte 
   Stories nochmals betont. Die POs werben aktiv für Refinement Teams, die die
@@ -140,8 +140,6 @@ angeben.
   Nicht verbrauchte SP können als "Listener" in anderen Product Refinements oder Projekten
   gebucht werden.
   [Wollen mehrere Teams in Competition treten, so wir das mit der niedrigeren SP ausgewählt - gefährlich!]
-
-.. wie handhaben wir Teilzeit Leute? ..
 
 - POs versuchen restliche US unterzubringen.
 
