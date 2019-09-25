@@ -147,11 +147,11 @@ Präferenzen angeben. Die POs organisieren dies.
 
 - Die Ergebnisse des Sprints werden von den einzelnen Teams vorgestellt. 
 
-### Sprint 
+### Sprint Retrospektive
 
+(ohne POs)
 - Es werden die KPIs ermittelt und mitgeteilt und grafisch aufgereitet präsentiert.
-
-
+- Es wird hinterfragt, was zu Erfolg beigetragen hat
 
 ## Ermittelbare KPIs
 
